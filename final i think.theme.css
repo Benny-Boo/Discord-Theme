@@ -1,0 +1,55 @@
+/**
+ * @name final i think
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232450
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+:root {
+  --background-image: url('https://i.pinimg.com/originals/88/e5/91/88e5913958fcccf00c0a545e66488468.jpg');
+  --background-image-blur: 1px;
+  --background-image-size: 100%;
+  --background-image-position: center;
+  --popout-modal-image: url('https://i.pinimg.com/originals/88/e5/91/88e5913958fcccf00c0a545e66488468.jpg');
+  --popout-modal-blur: 2px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.66;
+  --left-brightness: 0.58;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.2;
+  --popout-modal-brightness: 0.64;
+  --gradient-primary: 253,113,255;
+  --gradient-secondary: 105,225,241;
+  --link-colour: #F381EA;
+  --scrollbar-colour: rgb(255,124,249,1);
+  --gradient-direction: 20deg;
+  --tint-colour: 0,188,212;
+  --tint-brightness: 0.06;
+  --font: gg sans;
+  --window-padding: 0px;
+  --window-roundness: 18px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-width: 2.2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00FF24;
+  --rs-idle-color: #FF9900;
+  --rs-dnd-color: #FA8CFF;
+  --rs-offline-color: #5C5C5C;
+  --rs-streaming-color: #6543A0;
+}
